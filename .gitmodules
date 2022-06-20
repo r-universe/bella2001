@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "coxrt"]
+	path = coxrt
+	url = https://github.com/bella2001/coxrt
+	shallow = true
+	registered = true
