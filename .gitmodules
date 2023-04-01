@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "causalCmprsk"]
+	path = causalCmprsk
+	url = https://github.com/bella2001/causalcmprsk
+	shallow = true
+	registered = true
 [submodule "coxrt"]
 	path = coxrt
 	url = https://github.com/bella2001/coxrt
