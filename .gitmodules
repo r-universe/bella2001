@@ -5,6 +5,3 @@
 [submodule "causalCmprsk"]
 	path = causalCmprsk
 	url = https://github.com/bella2001/causalcmprsk
-[submodule "coxrt"]
-	path = coxrt
-	url = https://github.com/bella2001/coxrt
